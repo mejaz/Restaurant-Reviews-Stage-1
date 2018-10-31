@@ -11,9 +11,9 @@ Restaurant Reviews Stage 1 is a part of Udacity FEND project. With this website 
 
 1. Clone / Download this repo.
 2. Start a local server. (e.g. using python)
-	a. navigate to the folder containing all the repo files
-	b. on the command prompt enter for python 2.x - python -m SimpleHTTPServer 8003
-	c. on the command prompt enter for python 3.x - `python -m http.server 8003`
+	- navigate to the folder containing all the repo files
+	- on the command prompt enter for python 2.x - `python -m SimpleHTTPServer 8003`
+	- on the command prompt enter for python 3.x - `python -m http.server 8003`
 3. Open a web browser and enter the address - `http://localhost:8003/`
 
 ## Contact Me
